@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: #B47EED;
+	text-align: center;
+} 
+
+nav {
+	padding: 10px;
+	border radius: 15px;
+}
