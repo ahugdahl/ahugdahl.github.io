@@ -9,10 +9,19 @@ body {
 #nav_li {
 	padding: 10px;
 	border radius: 15px;
-	display: inline;
+	display: block;
+	background-color: #F022BC;
 }
 
-homepage_photo {
+#homepage_photo {
 	width: 300px;
 	height: 400px;
+}
+
+section {
+	text-align: left;
+}
+aside {
+	float:right;
+	text-align: left;
 }
