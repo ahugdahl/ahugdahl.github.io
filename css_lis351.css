@@ -18,12 +18,13 @@ body {
 	height: 400px;
 	float: left;
 }
-
+#p_intro {
+	float: right;
+}
 section {
 	text-align: left;
 }
 aside {
 	float:right;
 	text-align: left;
-	display: inline-block;
 }
