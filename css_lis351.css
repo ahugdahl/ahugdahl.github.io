@@ -8,8 +8,8 @@ body {
 
 #nav_li {
 	padding: 10px;
-	border radius: 15px;
-	display: block;
+	border-radius: 15px;
+	display: inline;
 	background-color: #F022BC;
 }
 
