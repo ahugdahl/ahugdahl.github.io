@@ -25,4 +25,5 @@ section {
 aside {
 	float:right;
 	text-align: left;
+	display: inline-block;
 }
