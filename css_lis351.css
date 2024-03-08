@@ -9,6 +9,7 @@ body {
 #nav_li {
 	padding: 10px;
 	border-radius: 15px;
+	border-color: #FFFFFF;
 	display: inline;
 	background-color: #F022BC;
 }
@@ -16,15 +17,10 @@ body {
 #homepage_photo {
 	width: 300px;
 	height: 400px;
-	float: left;
 }
 #p_intro {
 	float: right;
 }
 section {
-	text-align: left;
-}
-aside {
-	float:right;
 	text-align: left;
 }
