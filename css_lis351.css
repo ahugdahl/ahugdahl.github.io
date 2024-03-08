@@ -23,6 +23,11 @@ nav li {
 	align: center;
 }
 
+#name {
+	float:left
+	width: 50%;
+	}
+
 #bucky_photo {
 	float: right;
 	width: 50%;
