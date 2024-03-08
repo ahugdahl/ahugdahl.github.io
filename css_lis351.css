@@ -16,7 +16,18 @@ nav li {
 	display:inline;
 	padding: 10px;
 }
-	
+
+#homepage_photo {
+	width: 300px;
+	height: 400px;
+	align: center;
+}
+
+#bucky_photo {
+	float: right;
+	width: 50%;
+}
+
 #about_me_divs {
 	display: flex;
 	flex-direction: row;
@@ -32,23 +43,10 @@ nav li {
 	text-height: 120%;
 }
 
-
-#homepage_photo {
-	width: 300px;
-	height: 400px;
-	align: center;
-}
-
 #first_day_picture {
 	width: 300px;
 	height: 400px;
 	float: right;
-}
-
-section {
-	text-align: left;
-	border: white;
-	margin-left: 100px;
 }
 
 .role {
@@ -69,6 +67,7 @@ section {
 .class_list {
 	width: 45%;
 	border: 20px;
+	background-color: 2F4FED;
 	border-radius: 15px;
 	border-color: white;
 }
