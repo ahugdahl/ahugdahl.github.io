@@ -39,6 +39,7 @@ nav li {
 	justify-content: space-between;
 	border: 3px;
 	margin: 0, auto;
+	float: down;
 }
 
 .part_about_me {
