@@ -7,12 +7,16 @@ body {
 } 
 
 nav {
+	background-color: #F022BC;
 	padding: 10px;
 	border-radius: 15px;
-	border-color: #FFFFFF;
-	display: inline;
-	background-color: #F022BC;
+	border-color: white;	
 }
+nav li {
+	display:inline;
+	padding: 10px;
+}
+	
 
 #homepage_photo {
 	width: 300px;
