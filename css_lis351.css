@@ -28,7 +28,7 @@ section {
 	text-align: left;
 }
 
-role {
+#role {
 	font.weight: bold;
 	text-color: blue;
 }
