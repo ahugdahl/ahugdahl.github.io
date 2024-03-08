@@ -100,7 +100,7 @@ main {
 	font-weight: bold;
 	text-color: blue;
 	background-color: white;
-	padding: 8px;
+	padding: 10px;
 }
 
 .linkedin {
@@ -114,7 +114,8 @@ main {
 	flex-direction: row;
 	justify-content: space-between;
 	border: 3px;
-	margin: 20px;
+	padding: 10px;
+	margin: 10px;
 	width: 100%;
 }
 
