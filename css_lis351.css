@@ -82,6 +82,7 @@ dl {
 #first_day_picture {
 	width: 200px;
 	height: 300px;
+	float: left;
 	
 }
 
