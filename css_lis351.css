@@ -54,6 +54,12 @@ main {
 dl {
 	float: right;
 }
+
+#descriptive_list {
+	padding: 10px;
+	margin: 20px;
+	background-color: white;
+}
 	
 #about_me_divs {
 	display: flex;
