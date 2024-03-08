@@ -82,11 +82,9 @@ section {
 	justify-content: space-between;
 	border: 3px;
 	margin:20px;
-	width: 100%;
 }
 
 #parts {
-	width: 45%;
 	border: 20px;
 	background-color: 2F4FED;
 	border-radius: 15px;
