@@ -57,3 +57,18 @@ section {
 	background-color: white;
 	padding: 8px;
 }
+
+#classes {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	border: 3px;
+	margin: 0, auto;
+}
+
+.class_list {
+	width: 45%;
+	border: 20px;
+	border-radius: 15px;
+	border-color: white;
+}
