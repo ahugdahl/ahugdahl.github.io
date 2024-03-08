@@ -49,9 +49,10 @@ nav li {
 }
 
 .first_day_picture {
-	width: 300px;
-	height: 400px;
+	width: 20%;
+	height: 30%;
 	float: right;
+	display: block;
 }
 
 .role {
