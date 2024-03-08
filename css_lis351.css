@@ -71,7 +71,7 @@ nav li {
 	width: 100%;
 }
 
-.parts {
+#parts {
 	width: 45%;
 	border: 20px;
 	background-color: 2F4FED;
@@ -88,7 +88,7 @@ nav li {
 	width: 100%;
 }
 
-.class_list {
+#class_list {
 	width: 45%;
 	border: 20px;
 	background-color: 2F4FED;
