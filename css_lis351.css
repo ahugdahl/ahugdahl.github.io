@@ -53,11 +53,6 @@ main {
 	height: 300px;
 	padding: 10px;
 	margin: 10px;
-	border: 10px;
-	border-color: white;
-}
-dl {
-	float: right;
 }
 
 #descriptive_list {
@@ -77,7 +72,7 @@ dl {
 
 .part_about_me {
 	width: 30%;
-	background-color: 2F4FED;
+	background-color: white;
 	height: 40%;
 	text-height: 120%;
 }
@@ -85,9 +80,7 @@ dl {
 #first_day_picture {
 	width: 200px;
 	height: 300px;
-	float: left;
-	
-}
+	}
 
 .role {
 	font-weight: bold;
