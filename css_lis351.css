@@ -8,13 +8,13 @@
 
 body {
 	width: 960px;
-	background-color: #B47EED;
+	background-color: #D3D3D3;
 	text-align: center;
 	margin: 0 auto;
 } 
 
 nav {
-	background-color: #F022BC;
+	background-color: #ffccd5;
 	padding: 10px;
 	margin: 10px;
 	border: 5px;
@@ -38,9 +38,12 @@ main {
 }
 	
 #homepage_photo {
+	background-color: white;
 	width: 300px;
 	height: 400px;
 	align: center;
+	padding: 10px;
+	margin: 10px;
 }
 
 #name {
@@ -49,6 +52,7 @@ main {
 	}
 
 #bucky_photo {
+	background-color: white;
 	width: 400px;
 	height: 300px;
 	padding: 10px;
@@ -103,7 +107,7 @@ main {
 #class_list {
 	width: 45%;
 	border: 20px;
-	background-color: 2F4FED;
-	border-radius: 15px;
-	border-color: white;
+	background-color: white;
+	padding: 10px;
+	margin: 10px;
 }
