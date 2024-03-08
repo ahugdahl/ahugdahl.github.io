@@ -27,3 +27,8 @@ nav li {
 section {
 	text-align: left;
 }
+
+role {
+	font.weight: bold;
+	text-color: blue;
+}
