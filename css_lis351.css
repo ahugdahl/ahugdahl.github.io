@@ -48,8 +48,10 @@ main {
 	}
 
 #bucky_photo {
-	float: right;
-	width: 50%;
+	width: 400px;
+	height: 300px;
+	padding: 10px;
+	margin: 10px;
 }
 dl {
 	float: right;
