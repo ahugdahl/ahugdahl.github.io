@@ -17,6 +17,18 @@ nav li {
 	padding: 10px;
 }
 	
+#about_me_divs {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	border: 3px;
+	margin: 0, auto;
+}
+
+.part_about_me {
+	width: 30%;
+}
+
 
 #homepage_photo {
 	width: 300px;
