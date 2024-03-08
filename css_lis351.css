@@ -93,7 +93,11 @@ main {
 	padding: 8px;
 }
 
-
+.linkedin {
+		background-color: white;
+		font-size: 130%;
+		font-color: #660066;
+	}
 
 #classes {
 	display: flex;
