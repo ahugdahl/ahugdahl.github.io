@@ -6,12 +6,11 @@ body {
 	text-align: center;
 } 
 
-#nav_li {
+nav_li {
 	padding: 10px;
 	border-radius: 15px;
 	border-color: #FFFFFF;
-	float: left;
-	display: block;
+	display: inline;
 	background-color: #F022BC;
 }
 
