@@ -32,10 +32,12 @@ nav li {
 
 section {
 	text-align: left;
+	border: white;
+	margin-left: 100px;
 }
 
 .role {
-	font.weight: bold;
+	font-weight: bold;
 	text-color: blue;
 	background-color: white;
 	padding: 8px;
