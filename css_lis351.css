@@ -17,10 +17,9 @@ nav {
 #homepage_photo {
 	width: 300px;
 	height: 400px;
+	align: center;
 }
-#p_intro {
-	float: right;
-}
+
 section {
 	text-align: left;
 }
