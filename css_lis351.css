@@ -90,6 +90,7 @@ main {
 }
 
 #first_day_picture {
+	background-color: white;
 	width: 300px;
 	height: 400px;
 	padding: 10px;
