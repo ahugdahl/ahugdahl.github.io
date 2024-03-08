@@ -51,7 +51,10 @@ main {
 	float: right;
 	width: 50%;
 }
-
+dl {
+	float: right;
+}
+	
 #about_me_divs {
 	display: flex;
 	flex-direction: row;
