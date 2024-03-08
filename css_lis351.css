@@ -73,7 +73,7 @@ nav li {
 	flex-direction: row;
 	justify-content: space-between;
 	border: 3px;
-	margin: 0, auto;
+	margin:20px;
 	width: 100%;
 }
 
@@ -90,7 +90,7 @@ nav li {
 	flex-direction: row;
 	justify-content: space-between;
 	border: 3px;
-	margin: 0, auto;
+	margin: 20px;
 	width: 100%;
 }
 
