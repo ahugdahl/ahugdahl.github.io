@@ -58,11 +58,17 @@ main {
 	padding: 10px;
 	margin: 10px;
 }
-
-#descriptive_list {
+.descriptive_pic {
+	padding: 10px;
+	margin: 10px;
+	float: left;
+}
+	
+.descriptive_list {
 	padding: 10px;
 	margin: 20px;
 	background-color: white;
+	float: right;
 }
 	
 #about_me_divs {
