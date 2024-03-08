@@ -53,7 +53,7 @@ section {
 	justify-content: space-between;
 	border: 3px;
 	margin: 0, auto;
-	vertical-align: bottom;
+	float: bottom;
 }
 
 .part_about_me {
