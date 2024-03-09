@@ -16,10 +16,7 @@ body {
 nav {
 	background-color: #ffccd5;
 	padding: 10px;
-	margin: 10px;
-	border: 5px;
-	border-radius: 15px;
-	border-color: white;	
+	margin: 10px 10px 0 10px;
 }
 nav li {
 	display:inline;
@@ -36,6 +33,10 @@ main {
 	padding: 10px;
 	margin: 10px;
 }
+
+#p_intro {
+	text-height: 120%;
+}
 	
 #homepage_photo {
 	background-color: white;
@@ -47,8 +48,12 @@ main {
 }
 
 #name {
+	Background-color: white;
 	width: 200px;
 	height: 200px;
+	padding: 10px;
+	margin: 10px;
+	text-height: 120%;
 	}
 
 #bucky_photo {
