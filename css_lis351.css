@@ -27,9 +27,6 @@ nav li {
 section {
 	overflow: auto;
 	height: 100%;
-}
-	
-main {
 	padding: 10px;
 	margin: 10px;
 }
